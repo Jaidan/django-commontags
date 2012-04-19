@@ -1,4 +1,6 @@
 include CHANGELOG
 include INSTALL
 include MANIFEST.in
-include README
+include README.rst
+include LICENSE
+include AUTHORS
