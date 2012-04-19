@@ -56,6 +56,7 @@ truncatechars
 partition
   Break a list into ``n`` pieces. The last list may be larger than the 
   rest if the list doesn't break cleanly. That is::
+
     >>> l = range(10)
 
     >>> partition(l, 2)
