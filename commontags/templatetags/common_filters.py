@@ -61,7 +61,7 @@ def partition(thelist, n):
 def lookup(d, index):
     try:
         return d[index]
-    except KeyError:
+    except:
         return ''
 
 @register.filter
